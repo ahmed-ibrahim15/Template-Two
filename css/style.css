@@ -771,7 +771,7 @@ ul {
 
 .stats {
     height: 750px;
-    background-image: url(../pictures/Stats.jpeg);
+    background-image: url(../pictures/stats.jpeg);
     background-size: cover;
     position: relative;
     display: flex;
